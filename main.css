@@ -1,0 +1,25 @@
+body {
+    background-color: #666;
+    color: #03045e;
+    font-family: verdana;
+}
+
+.business-card {
+    background: linear-gradient(#48cae4, #ade8f4);
+    display: flex;
+    width: 400px;
+    justify-content: center;
+    padding: 1rem;
+    margin: 1rem auto;
+    border-bottom: 8px solid #023e8a;
+}
+
+.card-info {
+    text-align: center;
+    margin-left: 8px;
+}
+
+.profile-img {
+    width: 150px;
+    object-fit: cover;
+}
